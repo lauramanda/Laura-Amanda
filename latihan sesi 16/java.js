@@ -1,2 +1,0 @@
-localStorage.
-getlocalStorage(), "Laura"
